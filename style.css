@@ -82,6 +82,10 @@ header{
   border-radius: 30px;
 }
 
+#Interior_designs a button{
+  color: rgba(62, 37, 6, 0.629);
+}
+
 #Modern{
  background-image: url(Modern.jpg);
  transition: 0.5s;
